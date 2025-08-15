@@ -1,0 +1,8 @@
+{
+  "name": "VaiNaLista!",
+  "description": "VaiNaLista! is a modern and intuitive shopping list application that helps you organize your purchases, track expenses, and generate a summary PDF. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
